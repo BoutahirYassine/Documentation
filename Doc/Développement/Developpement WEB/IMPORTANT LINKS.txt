@@ -1,0 +1,17 @@
+https://ionicframework.com/docs/api/spinner //Documentation IONIC
+https://grafikart.fr/cursus                 //Formations HTML CSS ...
+https://www.w3schools.com/html/html_css.asp //HTML CSS TUTORIAL
+https://www.pm-coaching.org/cpm             //Management
+https://www.youtube.com/watch?v=Fh8MmgWWvMs&list=PLlyAM-8-I7S9iNcZRfP4SQJhm4Mw5q5ku&index=4 //Formation IONIC
+https://www.w3schools.com/js/js_operators.asp //Javascript
+
+https://matlabacademy.mathworks.com/fr/details/matlab-onramp/gettingstarted?s_tid=mwa_osa_a   //matlab
+
+
+********************************************
+Other links
+
+https://codepen.io/pen/   //visualiser HTML et CSS enligne
+https://uigradients.com/#BoraBora    //gradient
+https://unsplash.com/fr/s/photos/sport-car    //Image
+https://9elements.github.io/fancy-border-radius/#25.51.24.52--.   //bordure des boutton (CSS border-radus)
